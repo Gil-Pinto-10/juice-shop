@@ -1,0 +1,6 @@
+projectKey=Gil-Pinto-10_juice-shop_f2273bc5-cb18-49cc-9191-803a2663ff97
+serverUrl=http://localhost:9000
+serverVersion=25.3.0.104237
+dashboardUrl=http://localhost:9000/dashboard?id=Gil-Pinto-10_juice-shop_f2273bc5-cb18-49cc-9191-803a2663ff97
+ceTaskId=b58547c9-ac20-4930-a24f-f2ee576da1e5
+ceTaskUrl=http://localhost:9000/api/ce/task?id=b58547c9-ac20-4930-a24f-f2ee576da1e5
